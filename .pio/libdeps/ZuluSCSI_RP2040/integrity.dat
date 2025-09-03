@@ -1,0 +1,5 @@
+CUEParser=https://github.com/rabbitholecomputing/CUEParser#v2025.02.25
+ZuluSCSI_platform_RP2MCU
+minIni
+SCSI2SD
+SdFat=https://github.com/rabbitholecomputing/SdFat#2.2.3-gpt-exfat

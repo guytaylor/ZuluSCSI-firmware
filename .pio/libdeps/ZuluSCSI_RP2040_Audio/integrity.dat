@@ -1,0 +1,8 @@
+adafruit/Adafruit BusIO@^1.17.1
+CUEParser=https://github.com/rabbitholecomputing/CUEParser#v2025.02.25
+ZuluSCSI_platform_RP2MCU
+SCSI2SD
+SdFat=https://github.com/rabbitholecomputing/SdFat#2.2.3-gpt-exfat
+adafruit/Adafruit GFX Library@^1.12.1
+adafruit/Adafruit SSD1306@^2.5.15
+minIni
